@@ -1,6 +1,6 @@
 # 🚖 Uber Analysis Dashboard
 
-![]()
+![](https://github.com/jay3425/Uber-Analysis-Dashboard/blob/main/gettyimages-2184514833-612x612.jpg)
 
 An interactive **Power BI Dashboard** designed to analyze Uber Bike booking performance, revenue trends, ride completion status, and operational metrics. This project provides actionable insights through visually appealing and easy-to-understand analytics.
 
